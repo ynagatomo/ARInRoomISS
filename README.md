@@ -1,8 +1,6 @@
 # AR InRoom ISS
 
-<!--
-![App Icon](https://user-images.githubusercontent.com/66309582/150739922-d6f9353a-ca24-4224-ad7f-2f4afa1136d4.png)
--->
+![AppIcon](https://user-images.githubusercontent.com/66309582/150896290-54b49a74-baa4-44ea-9f58-40dc74f6bc23.png)
 
 A minimal iOS AR app to display the International Space Station (ISS) in the room.
 
@@ -22,6 +20,11 @@ The ISS 3d data is delivered by NASA. Texture images of the Earth and stars are 
 
 - [NASA 3D Resources](https://nasa3d.arc.nasa.gov)
 - [Solar System Scope: Solar Textures](https://www.solarsystemscope.com/textures/)
+
+![Pict1](https://user-images.githubusercontent.com/66309582/150898255-356432af-6e85-4647-806c-49c1a7e50306.png)
+![Pict2](https://user-images.githubusercontent.com/66309582/150898337-1a8f3424-0a0f-4517-bd13-a4c4691a37de.png)
+![Pict3](https://user-images.githubusercontent.com/66309582/150898376-d00ee342-5180-4495-9a6e-d6e132f1fd55.png)
+![Gif1](https://user-images.githubusercontent.com/66309582/150898411-1324adce-2edf-4c92-8910-238cc3d85ca1.gif)
 
 Reference:
 
